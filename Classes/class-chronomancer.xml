@@ -98,31 +98,31 @@
 
       <select type="Proficiency" name="Skill Proficiency (Chronomancer)" supports="Skill,Chronomancer" number="2" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
       
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_SPELLCASTING_Chronomancer" level="1"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_AGELESS_LINGUISTICS" level="1"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_WHEEL_OF_TIME" level="2"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_TIMELESS_BODY" level="2"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_LIFELONG_JOURNEY" level="3"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="4"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_POCKET_OF_ETERNITY" level="5"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_LIFELONG_JOURNEY_FEATURE" level="6"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_AGELESS_LINGUISTICS_FEATURE" level="6"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="8"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_WHEEL_OF_TIME_FEATURE" level="9"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_TIMELESS_BODY_FEATURE" level="9"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_REWIND" level="10"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_AGELESS_LINGUISTICS_FEATURE" level="10"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_LIFELONG_JOURNEY_FEATURE" level="11"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="12"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_TIME_ANOMALY" level="13"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_HYPERSONIC_SPEED" level="15"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="16"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_LIFELONG_JOURNEY_FEATURE" level="17"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_LORD_OF_TIME" level="17"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_TIMELESS_BODY_FEATURE" level="18"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_WHEEL_OF_TIME_FEATURE" level="18"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="19"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_UNDO_TIMELINE" level="20"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_SPELLCASTING_CHRONOMANCER" level="1"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_AGELESS_LINGUISTICS" level="1"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_WHEEL_OF_TIME" level="2"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_TIMELESS_BODY" level="2"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_LIFELONG_JOURNEY" level="3"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="4"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_POCKET_OF_ETERNITY" level="5"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_LIFELONG_JOURNEY_FEATURE" level="6"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_AGELESS_LINGUISTICS_FEATURE" level="6"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="8"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_WHEEL_OF_TIME_FEATURE" level="9"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_TIMELESS_BODY_FEATURE" level="9"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_REWIND" level="10"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_AGELESS_LINGUISTICS_FEATURE" level="10"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_LIFELONG_JOURNEY_FEATURE" level="11"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="12"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_TIME_ANOMALY" level="13"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_HYPERSONIC_SPEED" level="15"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="16"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_LIFELONG_JOURNEY_FEATURE" level="17"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_LORD_OF_TIME" level="17"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_TIMELESS_BODY_FEATURE" level="18"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_WHEEL_OF_TIME_FEATURE" level="18"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_ABILITYSCOREIMPROVEMENT_CHRONOMANCER" level="19"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_UNDO_TIMELINE" level="20"/>
     </rules>
     <multiclass id="ID_ZSTORM_REDDIT_MULTICLASS_Chronomancer">
       <prerequisite>Intelligence 13</prerequisite>
@@ -216,22 +216,28 @@
       <select type="Spell" name="Spellbook (Chronomancer)" supports="$(spellcasting:list), $(spellcasting:slots)" level="20" number="2" spellcasting="Chronomancer" />
     </rules>
   </element>
-  <element name="Arcane Recovery" type="Class Feature" source="Player’s Handbook" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ARCANE_RECOVERY">
+  <element name="Ageless linguistics" type="Class Feature" source="Zst0rm" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_AGELESS_LINGUISTICS">
     <description>
-      <p>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Chronomancer level (rounded up), and none of the slots can be 6th level or higher.</p>
-      <p>For example, if you’re a 4th-level Chronomancer, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>
+      <p>At 1st level, you can learn some of the oldest languages in the realm. You gain proficiency in 2 exotic languages. At 6th level you gain proficiency in 2 more exotic languages. And then at 10th level YOu gain proficiency in another 2 more exotic languages.</p>
     </description>
     <sheet>
-      <description>Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Chronomancer level (rounded up).</description>
+      <description>Gain at 1st lvl 2 exotic languages, 6th level 2 more and 10th level 2 more</description>
     </sheet>
   </element>
-  <element name="Arcane Tradition" type="Class Feature" source="Player’s Handbook" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer_ARCANE_TRADITION">
+  <element name="Wheel of time" type="Class Feature" source="Zst0rm" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER_WHEEL_OF_TIME">
     <description>
-      <p>The study of Chronomancerry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.</p>
-      <p>The most common arcane traditions in the multiverse revolve around the schools of magic. Chronomancers through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even Chronomancers who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques.</p>
-      
-      <p>When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.</p>
-      <p>Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.</p>
+      <p>At 2nd level your studies allow you to spin the wheel of time to alter the fate of yourself, an ally or an enemy. Your access to this bend in time is represented by fate dice. You have fate dice equal To your proficiency bonus + half of your chronomancer level (rounding down). For example a 2nd level chronomancer has 3 fate dice, whereas a 9th level chronomancer has 8 fate dice.</p>
+      <p>You can expend fate dice for a variety of uses. You know how to bend time to do the following: Accelerate, Decelerate and Surge.</p>
+      <p>When you expend fate dice, it is unavailable until you finish a long rest at which point you regain all expended fate dice by rewinding the wheel of time.</p>
+      <p>Some of your Wheel of Time features may require your target to make a saving throw to resist the features effects. The saving throw is your spell save DC which you can calculate in the Spellcasting Ability section previously.</p>
+      <h6>Accelerate</h6>
+      <p class="indent">As a bonus action you can expend a fate dice to hasten a targets actions and do multiple actions on the targets next turn. You roll 1d4 and the target gains additional actions equal to the result. You cannot use any of these extra actions for Accelerate or Surge. You can use this once per long rest. At 9th level you can use this twice per long rest, and at 18th level you can use Accelerate 3 times per long rest.</p>
+      <h6>Decelerate</h6>
+      <p>As a reaction to being damaged by an enemy you can delay the wounds inflicted by expending a fate dice. fate dice. You roll 1d4 and do not take the damage that would of been inflicted for that amount of rounds. The creature damaging you can make a Wisdom saving throw to ignore the effect and break the bend in time.</p>
+      <p>For example, you roll a 3 and do not take the damage until 3 rounds has passed. This includes the round where the round where you used Decelerate.</p>
+      <h6>Surge</h6>
+      <p>As an action you can expend a fate dice to take an additional action in the next round. You cannot use this additional action to cast any spell of 4th-level or higher. The action gained by surge cannot be used for Surge again.</p>
+
     </description>
     <sheet />
     <rules>

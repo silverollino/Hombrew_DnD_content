@@ -61,7 +61,7 @@
       <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_REWIND" />
       <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_TIME_ANOMALY" />
       <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_HYPERSONIC_SPEED" />
-      <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_LORD_OF_TIME" />
+      <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_TIME_LORD" />
       <div element="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_UNDO_TIMELINE" />
     </description>
     <sheet display="false">
@@ -92,7 +92,7 @@
       <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_REWIND" level="10"/>
       <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_TIME_ANOMALY" level="13"/>
       <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_HYPERSONIC_SPEED" level="15"/>
-      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_LORD_OF_TIME" level="17"/>
+      <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_TIME_LORD" level="17"/>
       <grant type="Class Feature" id="ID_ZSTORM_REDDIT_CLASS_FEATURE_CHRONOMANCER_UNDO_TIMELINE" level="20"/>
     </rules>
     <multiclass id="ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER">
@@ -347,10 +347,10 @@
     <description>You travelled back to a time where magic and miracles were rich throughout the land. Upon spending countless years in this timeline you are more attuned to magic than ever before.</description>
   </sheet>
   <rules>
-    <grant type="Archetype" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER__3351BC_EPOCH_CONTINUUM" level="3"/>
-    <grant type="Archetype" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_ANCIENT_RESEARCH" level="6"/>
-    <grant type="Archetype" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_FARE_RENEWED" level="11"/>
-    <grant type="Archetype" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_TIMELESS_VISAGE" level="17"/>
+    <grant type="Archetype Feature" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER__3351BC_EPOCH_CONTINUUM" level="3"/>
+    <grant type="Archetype Feature" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_ANCIENT_RESEARCH" level="6"/>
+    <grant type="Archetype Feature" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_FARE_RENEWED" level="11"/>
+    <grant type="Archetype Feature" id="ID_ZSTORM_REDDIT_ARCHETYPE_FEATURE_CHRONOMANCER_3351BC_TIMELESS_VISAGE" level="17"/>
   </rules>
 </element>
 

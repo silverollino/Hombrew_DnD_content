@@ -168,6 +168,7 @@
       <stat name="spellsave:dc" value="8" />
       <stat name="spellsave:dc" value="proeficiency" />
       <stat name="spellsave:dc" value="wisdom:modifier" />
+	  </rules>
     <spellcasting name="Chronomancer" ability="Wisdom" prepare="true">
       <list>Chronomancer</list>
     </spellcasting>

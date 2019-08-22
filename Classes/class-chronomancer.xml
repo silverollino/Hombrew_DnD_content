@@ -9,7 +9,7 @@
     </update>
   </info>
 
- <element name="Chronomancer" type="Class" source="Zst0rm" id="ID_ZSTORM_REDDIT_CLASS_Chronomancer">
+ <element name="Chronomancer" type="Class" source="Zst0rm" id="ID_ZSTORM_REDDIT_CLASS_CHRONOMANCER">
     <description>
       <p>Existence is measured in age. How many years has a mortal lived? What was the construction date of the walled city of Ambrosia? When were the deities formed? Time begins at birth, at creation. But, inevitably, time for all things comes to an end.</p>
       <p class="indent">Except, of course, for time itself.</p>
@@ -91,7 +91,7 @@
 
       <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
       <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_QUARTERSTAFF" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORDS" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
       
       <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_INTELLIGENCE" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>
       <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_WISDOM" requirements="!ID_ZSTORM_REDDIT_MULTICLASS_CHRONOMANCER"/>

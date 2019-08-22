@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Working title's Homebrew Items</name>
+		<description>This is my own collection of homebrew items, classes, races and more to play D&amp;D</description>
+		<author url="https://github.com/silverollino/Hombrew_DnD_content.git">Workingtitle</author>
+		<update version="0.1.8">
+			<file name="workingtitle-homebrew.index" url="https://github.com/silverollino/Hombrew_DnD_content/workingtitle-homebrew.index" />
+		</update>
+	</info>
+	<files>	
+		<!-- races -->
+		
+
+		<!-- classes -->
+		<file name="class-chronomancer.xml" url="https://github.com/silverollino/Hombrew_DnD_content/blob/master/Classes/class-chronomancer.xml" />
+		
+
+		<!-- backgrounds -->		
+		
+
+		<!-- items -->
+		
+		<!-- misc -->
+		
+	</files>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Working title's Homebrew Items</name>
+		<description>This is my own collection of homebrew items, classes, races and more to play D&amp;D</description>
+		<author url="https://github.com/silverollino/Hombrew_DnD_content.git">Workingtitle</author>
+		<update version="0.1.8">
+			<file name="workingtitle-homebrew.index" url="https://github.com/silverollino/Hombrew_DnD_content/workingtitle-homebrew.index" />
+		</update>
+	</info>
+	<files>	
+		<!-- races -->
+		
+
+		<!-- classes -->
+		<file name="class-chronomancer.xml" url="https://github.com/silverollino/Hombrew_DnD_content/blob/master/Classes/class-chronomancer.xml" />
+		
+
+		<!-- backgrounds -->		
+		
+
+		<!-- items -->
+		
+		<!-- misc -->
+		
+	</files>
+>>>>>>> 179e26300533e69bb5e9bbe35351432a4be95dc5
+</index>

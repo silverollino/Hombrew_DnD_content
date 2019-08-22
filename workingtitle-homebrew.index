@@ -3,7 +3,7 @@
 	<info>
 		<name>Working title's Homebrew Items</name>
 		<description>This is my own collection of homebrew items, classes, races and more to play D&amp;D</description>
-		<author url="https://github.com/silverollino/Hombrew_DnD_content.git">Workingtitle</author>
+		<author url="https://github.com/silverollino/Hombrew_DnD_content.git">workingtitle</author>
 		<update>
 			<file name="workingtitle-homebrew.index" url="https://raw.githubusercontent.com/silverollino/Hombrew_DnD_content/master/workingtitle-homebrew.index" />
 		</update>

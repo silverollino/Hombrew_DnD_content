@@ -255,7 +255,7 @@
       <p>Decelerate, as a reaction delay the wounds for 1d4 turns, enemy creature can make a WIS saving throw and ignore the effect</p>
       <p>Surge, As an action spend one fate dice and gain one aditional action for your next turn, not usable with surge again</p>
     </description>
-    <sheet />
+    </sheet>
     <rules>
     <stat name="fate:dice" value="proeficiency" />
     <stat name="fate:dice" value="level:chronomancer" />

@@ -275,7 +275,6 @@
   <description>
   <p>When you reach 3rd level, you become attuned with a certain timeline of events. These timelines are: 3351 B.C., 253 A.D., 1877 A.D., all of which  are detailled at the end of the class description, before the chronomancer spell lists. Your Lifelong Journey grants you features at 3rd level and again at 6th, 11th, and 17th l and again at 6th, 11th, and 17th level.</p>
   </description>
-  </sheet>
     <rules>
       <select type="Archetype" name="Lifelong journey" supports="Lifelong journey" />
     </rules>

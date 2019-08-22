@@ -5,7 +5,7 @@
 		<description>This is my own collection of homebrew items, classes, races and more to play D&amp;D</description>
 		<author url="https://github.com/silverollino/Hombrew_DnD_content.git">Workingtitle</author>
 		<update version="0.1.8">
-			<file name="workingtitle-homebrew.index" url="https://github.com/silverollino/Hombrew_DnD_content/workingtitle-homebrew.index" />
+			<file name="workingtitle-homebrew.index" url="https://raw.githubusercontent.com/silverollino/Hombrew_DnD_content/master/workingtitle-homebrew.index" />
 		</update>
 	</info>
 	<files>	
@@ -13,7 +13,7 @@
 		
 
 		<!-- classes -->
-		<file name="class-chronomancer.xml" url="https://github.com/silverollino/Hombrew_DnD_content/blob/master/Classes/class-chronomancer.xml" />
+		<file name="class-chronomancer.xml" url="https://raw.githubusercontent.com/silverollino/Hombrew_DnD_content/master/Classes/class-chronomancer.xml" />
 		
 
 		<!-- backgrounds -->		
